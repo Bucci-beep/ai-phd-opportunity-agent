@@ -9,6 +9,8 @@ description = "AI agent for discovering and matching funded UK PhD opportunities
 requires-python = ">=3.11"
 dependencies = [
     "pydantic>=2.7,<3",
+    "python-dotenv>=1,<2",
+    "supabase>=2,<3",
 ]
 
 [project.optional-dependencies]

@@ -5,3 +5,8 @@ node_modules/
 !.env.example
 .DS_Store
 supabase/.temp/
+
+# Local secrets
+.env
+.env.*
+!.env.example

@@ -38,3 +38,9 @@ __all__ = [
     "normalize_whitespace",
     "serialize_hash_payload",
 ]
+
+from phd_agent.ingestion.deduplication import (
+    DeduplicationResult,
+    MatchReason,
+    compare_opportunities,
+)
