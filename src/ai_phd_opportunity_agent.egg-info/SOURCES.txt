@@ -1,0 +1,9 @@
+pyproject.toml
+src/ai_phd_opportunity_agent.egg-info/PKG-INFO
+src/ai_phd_opportunity_agent.egg-info/SOURCES.txt
+src/ai_phd_opportunity_agent.egg-info/dependency_links.txt
+src/ai_phd_opportunity_agent.egg-info/requires.txt
+src/ai_phd_opportunity_agent.egg-info/top_level.txt
+src/phd_agent/__init__.py
+src/phd_agent/ingestion/__init__.py
+src/phd_agent/ingestion/models.py
